@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 درباره من
-- 🌱 در حال حاضر روی **توسعه وب با React و Node.js** تمرکز دارم.
+- 🌱 در حال حاضر روی **توسعه وب با React و Next.js** تمرکز دارم.
 - 👯 به دنبال همکاری در پروژه‌های **متن‌باز و چالش‌برانگیز** هستم.
 - 💬 از پرسیدن سوال درباره **جاوااسکریپت، پایتون و طراحی UI** خوشحال می‌شوم.
 - 📫 راه ارتباطی: [ایمیل](alishojaei898@gmail.com) | [لینکدین](https://linkedin.com/alishojaei)
@@ -26,6 +26,15 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src= "https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agent-412991?style=flat&logo=ai&logoColor=white" />
   
 
   
