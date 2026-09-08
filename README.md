@@ -12,7 +12,7 @@
 - 🌱 در حال حاضر روی **توسعه وب با React و Node.js** تمرکز دارم.
 - 👯 به دنبال همکاری در پروژه‌های **متن‌باز و چالش‌برانگیز** هستم.
 - 💬 از پرسیدن سوال درباره **جاوااسکریپت، پایتون و طراحی UI** خوشحال می‌شوم.
-- 📫 راه ارتباطی: [ایمیل](mailto:your-email@example.com) | [لینکدین](https://linkedin.com/in/your-profile)
+- 📫 راه ارتباطی: [ایمیل](alishojaei898@gmail.com) | [لینکدین](https://linkedin.com/alishojaei)
 
 ---
 
@@ -25,11 +25,16 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src= "https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  
+
+  
+
 </p>
 
 ---
 
-### 📊 آمار گیت‌هاب
+###آمار گیت‌هاب
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alishojaeix&show_icons=true&theme=radical" alt="آمار گیت‌هاب" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alishojaeix&theme=radical" alt="روند فعالیت" width="48%" />
