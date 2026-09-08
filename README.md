@@ -39,14 +39,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Purple Theme)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alishojaeix&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alishojaeix&show_icons=true&theme=radical&border_radius=10&hide=contribs,prs" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alishojaeix&theme=radical&border_radius=10" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishojaeix&layout=compact&theme=radical&border_radius=10&langs_count=6" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishojaeix&layout=compact&theme=radical&border_radius=10&langs_count=6&hide=html,css" alt="Top Languages" width="40%" />
 </p>
 
 ---
